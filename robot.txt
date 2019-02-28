@@ -1,0 +1,28 @@
+###########################################
+#					  #
+# How to Use BirdHouse to Control a Robot #
+#                -Shaolin		  #
+#					  #
+###########################################
+
+use birdhouse_robot.py as a template
+
+to control the movement of the robot:
+make either an external program or a function within the file
+for each directional movement, making sure you account for the 
+distance specified in the tweet. since i dont know the libraries
+or languages involved in the projects in which you will control 
+the robot, i leave all the freedom up to you while using this as 
+a base. to email me your code to feature on this project, email 
+me at odinsecurity@protonmail.com with a proof of concept of the 
+robot following said instructions.
+
+
+extra ideas to think of when contributing:
+-make a more casual way to tweet that the robot will still understand
+-make, in essence, a "say" command for your robot using twitter
+-use twitter to control an LED display
+-make a way for your robot to autonomously operate and tweet diagnostics
+
+
+-Shaolin
